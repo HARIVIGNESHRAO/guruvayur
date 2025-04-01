@@ -1,0 +1,8 @@
+Flask
+openai-whisper
+groq
+googletrans
+werkzeug
+flask-cors
+reportlab
+ffmpeg
